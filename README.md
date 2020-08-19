@@ -1,1 +1,1 @@
-#This is going to be goooo!!
+This is Madelson's first git project!
